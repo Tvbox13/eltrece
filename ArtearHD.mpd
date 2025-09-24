@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:6
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:6338412
+#EXT-X-PROGRAM-DATE-TIME:2025-09-24T02:54:33.039Z
+#EXTINF:5.600,
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v1a1/2025/09/24/02/54/33-05600.ts
+#EXTINF:5.600,
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v1a1/2025/09/24/02/54/38-05600.ts
+#EXTINF:5.600,
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v1a1/2025/09/24/02/54/44-05600.ts
+#EXTINF:5.600,
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v1a1/2025/09/24/02/54/49-05600.ts
